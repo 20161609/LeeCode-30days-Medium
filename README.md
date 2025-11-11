@@ -1,7 +1,7 @@
 # LeetCode Next 30 Challenge
 
 ## Progress
-- Current: 1/30
+- Current: 2/30
 - Begin: 2025-11-06
 - End: -
 
