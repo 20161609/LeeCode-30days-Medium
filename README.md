@@ -1,7 +1,7 @@
-# LeetCode Next 30 Challenge
+# LeetCode Next 33 Challenge
 
 ## Progress
-- Current: 2/30
+- Current: 2/33(30+ practice 3 solutions)
 - Begin: 2025-11-06
 - End: -
 
